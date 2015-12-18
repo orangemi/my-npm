@@ -1,0 +1,8 @@
+/node_modules
+/example
+/debug
+/repos
+/config/development*
+/config/production*
+
+.DS_Store

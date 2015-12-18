@@ -1,0 +1,23 @@
+{
+  "name": "tp-npm-registry",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "config": "^1.17.1",
+    "debug": "^2.2.0",
+    "thunk-stream": "^1.1.1",
+    "thunks": "^4.1.0",
+    "toa": "^1.2.0",
+    "toa-router": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
