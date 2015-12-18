@@ -1,8 +1,8 @@
-TP-NPM
+MY-NPM
 ======
 A tiny npm registry with private repo using your own git.
 - pull your private package repo
-- proxy public packge to [npmjs.org](https://npmjs.org)
+- proxy read public package from [npmjs.org](https://npmjs.org)
 
 ## Usage
 - edit your config in `repos` keyword:
