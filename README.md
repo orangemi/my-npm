@@ -9,8 +9,8 @@ A tiny npm registry with private repo using your own git.
 ```
 {
   "repos": {
-  	"{package.name}" : "{repo.url}",
-  	...
+    "{package.name}" : "{repo.url}",
+    ...
   }
 }
 ```
@@ -18,7 +18,7 @@ A tiny npm registry with private repo using your own git.
 ```
 git tag v1.0.0
 ```
-- tp-npm will find the largest version (maybe not be same as the latest version) for you.
+- my-npm will find the largest version (maybe not be same as the latest version) for you.
 - try npm install
 ```
 npm install --registry=http://localhost:3010 private-repo public-repo

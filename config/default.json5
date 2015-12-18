@@ -1,8 +1,10 @@
 {
-	host: 'http://localhost:3010',
-	npmUrl: 'https://registry.npmjs.org',
+  host: 'http://localhost:3010',
+  npmUrl: 'https://registry.npmjs.org',
   port: 3010,
   repos: {
-    // {repo-name}: {git-url},
-  }
+    // {repo-name}: {
+    //   repo: {git-url},
+    // },
+  },
 }
