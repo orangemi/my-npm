@@ -28,3 +28,4 @@ npm install --registry=http://localhost:3010 private-repo public-repo
 - login with token
 - dynamic add / remove repo
 - check permission
+- lock fetching package info when fetching git tags info
