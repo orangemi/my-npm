@@ -9,10 +9,13 @@
   "dependencies": {
     "config": "^1.17.1",
     "debug": "^2.2.0",
+    "json5": "^0.4.0",
     "thunk-stream": "^1.1.1",
     "thunks": "^4.1.0",
     "toa": "^1.2.0",
-    "toa-router": "^1.1.2"
+    "toa-body": "^1.2.2",
+    "toa-router": "^1.1.2",
+    "urllib": "^2.6.0"
   },
   "devDependencies": {},
   "scripts": {
